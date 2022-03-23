@@ -1,6 +1,6 @@
 {
   "name": "@yangss/lint-msg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Lint commit message",
   "main": "dist/index.js",
   "type": "module",
